@@ -48,20 +48,20 @@
  <p></p>
  <h3> Trophies: </h3>
  <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=kuvar-Shivam-Sing&theme=tokyonight">
+ <img src="https://github-profile-trophy.vercel.app/?username=kuvar-Shivam-Singh&theme=tokyonight">
  </div>
  <h3> Stats: </h3>
  <div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuvar-Shivam-Sing&layout=compact&theme=tokyonight&langs_count=7"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuvar-Shivam-Singh&layout=compact&theme=tokyonight&langs_count=7"/>
  </div>
  <p></p>
  <p></p>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=kuvar-Shivam-Sing&show_icons=true&theme=tokyonight" width="49%">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuvar-Shivam-Sing&theme=tokyonight" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=kuvar-Shivam-Singh&show_icons=true&theme=tokyonight" width="49%">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuvar-Shivam-Singh&theme=tokyonight" width="50%">
  </div>
  <p></p>
  <p></p>
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kuvar-Shivam-Sing&hide_border=false&theme=tokyo-night">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kuvar-Shivam-Singh&hide_border=false&theme=tokyo-night">
  <p></p>
  <!-- <img src="https://github.com/atrisomya/atrisomya/blob/output/github-contribution-grid-snake.gif"> -->
