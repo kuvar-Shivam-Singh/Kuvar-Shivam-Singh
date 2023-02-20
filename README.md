@@ -11,7 +11,7 @@
   <p>  ◦ 💭  Ask me about <b> Spring, Java, Javascript</b> </p>
   <p>  ◦ 🔭 I'm looking for interesting career opportunities as a Java Back-End Developer </p>
   <p>  ◦ 📧 Connect with me at  <a href="mailto:321shivam3321@gmail.com.com"> 321shivam3321@gmail.com </a></p>
-   - All of my projects are available at [porfolio](https://kuvar-shivam-singh.github.io/) 
+<!--    - All of my projects are available at [porfolio](https://kuvar-shivam-singh.github.io/)  -->
 <!--   <p>  ◦ 📄 Checkout my <a href="https://drive.google.com/file/d/1zNs5p_fSuewthjtj2X001pauDclCCbkI/view" > Resume</a></p> -->
 
 
